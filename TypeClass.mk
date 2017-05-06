@@ -1,0 +1,1 @@
+TypeClass.o : TypeClass.h
